@@ -1,8 +1,10 @@
-# iChart-lite
+# iChart-lite: Accessible Chart for the Visually Impaired using Lightweight Extraction Algorithm
 
 iChart-lite is a real-time assistive system that automatically extracts data from bar charts and generates textual and auditorial descriptions. It utilizes real-time object detection and heuristics, enabling it to be lightweight enough to run on portable devices.
 
 ## Demo Video
+
+Click the image below to watch the demo video.
 
 [![iChart Demo Video Thumbnail](https://img.youtube.com/vi/jPnuxwI-Nys/0.jpg)](https://youtu.be/jPnuxwI-Nys)
 
@@ -42,4 +44,4 @@ Run this command to run the demo.
 poetry run python demo.py
 ```
 
-You can change the YOLOv8 model used in demo by changing `MODEL_PATH` in `demo.py`.
+You can change the YOLOv8 model used in the demo by changing `MODEL_PATH` in `demo.py`.
