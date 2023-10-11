@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+
+# Ultralytics YOLOv8
+datasets/labels.cache
+models/yolov8s.pt
+runs/
+
+# Others
+temp.mp3
