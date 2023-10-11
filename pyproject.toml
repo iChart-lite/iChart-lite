@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "ichart-lite"
+version = "1.0.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "ichart_lite"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "1.25.2"
+ultralytics = "8.0.196"
+opencv-python = "4.8.1.78"
+gTTS = "2.4.0"
+pytesseract = "0.3.10"
+playsound = "1.2.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
