@@ -1,0 +1,8 @@
+train: train_82.txt
+val: val_82.txt
+
+nc: 3
+names:
+  0: bar
+  1: x
+  2: y

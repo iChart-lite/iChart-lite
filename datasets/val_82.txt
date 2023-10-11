@@ -1,0 +1,14 @@
+datasets/images/002.jpg
+datasets/images/8e216bd68c12b759437864d5f87d29a5.jpg
+datasets/images/bar_graph_transportation1084496937959524001.jpg
+datasets/images/bar-graph.jpg
+datasets/images/BarFaceandEdgeColorExample_01.jpg
+datasets/images/Solved-Examples-2.jpg
+datasets/images/004.jpg
+datasets/images/bar_chart_q2.jpg
+datasets/images/bar-graph-5.jpg
+datasets/images/read_bar_chart.jpg
+datasets/images/003.jpg
+datasets/images/bargraphq1sol.jpg
+datasets/images/Bar Chart .jpg
+datasets/images/create_bar_chart.jpg

@@ -1,0 +1,720 @@
+[
+	{
+		"name": "002.jpg",
+		"x_labels": [
+			"Guest",
+			"New User",
+			"Existing User"
+		]
+	},
+	{
+		"name": "003.jpg",
+		"x_labels": [
+			"Period 1",
+			"Period 2",
+			"Period 3",
+			"Period 4",
+			"Period 5"
+		]
+	},
+	{
+		"name": "004.jpg",
+		"x_labels": [
+			"Apple",
+			"Orange",
+			"Banana",
+			"Kiwifruit",
+			"Blueberry",
+			"Grapes"
+		]
+	},
+	{
+		"name": "3D-bar-chart-object.jpg",
+		"x_labels": [
+			"Jan",
+			"Feb",
+			"Mar",
+			"Apr",
+			"May",
+			"Jun"
+		]
+	},
+	{
+		"name": "4-Bar-chart-showing-age-distribution-among-participants.jpg",
+		"x_labels": [
+			"15-24",
+			"25-34",
+			"35-44",
+			"45-54",
+			"55-64",
+			"65-74",
+			"75+"
+		]
+	},
+	{
+		"name": "8e216bd68c12b759437864d5f87d29a5.jpg",
+		"x_labels": [
+			"MONDAY",
+			"TUESDAY",
+			"WEDNESDAY",
+			"THURSDAY",
+			"FRIDAY"
+		]
+	},
+	{
+		"name": "Bar Chart .jpg",
+		"x_labels": [
+			"Leadership",
+			"Innovation",
+			"Strategic Focus",
+			"Ability to Execute",
+			"Customer Focus"
+		]
+	},
+	{
+		"name": "Bar Chart Count.jpg",
+		"x_labels": [
+			"Less than 1 year",
+			"1-2 years",
+			"2-5 years",
+			"5-10 years",
+			"10-20 years",
+			"20 years plus"
+		]
+	},
+	{
+		"name": "Bar Chart actuals.jpg",
+		"x_labels": [
+			"Leadership",
+			"Innovation",
+			"Strategic Focus",
+			"Ability to Execute",
+			"Customer Focus"
+		]
+	},
+	{
+		"name": "Bar-Graph-Chart.jpg",
+		"x_labels": [
+			"Golf",
+			"Tennis",
+			"Football",
+			"Rugby",
+			"Basketball"
+		]
+	},
+	{
+		"name": "Bar-Graph-Example-1.jpg",
+		"x_labels": [
+			"Grade 4",
+			"Grade 5",
+			"Grade 6",
+			"Grade 7",
+			"Grade 8"
+		]
+	},
+	{
+		"name": "Bar-Graph-Example-2.jpg",
+		"x_labels": [
+			"Spring",
+			"Summer",
+			"Autumn",
+			"Winter",
+			"Rainy"
+		]
+	},
+	{
+		"name": "Bar-chart.jpg",
+		"x_labels": [
+			"Tokyo",
+			"Chicago",
+			"New York",
+			"Boston",
+			"Atlanta"
+		]
+	},
+	{
+		"name": "BarCategoricalXDataExample_01.jpg",
+		"x_labels": [
+			"Small.",
+			"Medium",
+			"Large",
+			"Extra Large"
+		]
+	},
+	{
+		"name": "BarChart.jpg",
+		"x_labels": [
+			"January",
+			"February",
+			"March",
+			"April",
+			"May",
+			"June",
+			"July"
+		]
+	},
+	{
+		"name": "BarChartDefaultColors.jpg",
+		"x_labels": [
+			"January",
+			"February",
+			"March",
+			"April",
+			"May",
+			"June",
+			"July"
+		]
+	},
+	{
+		"name": "BarChart_MaritalStatus.jpg",
+		"x_labels": [
+			"Single",
+			"Married",
+			"Widowed",
+			"Divorced",
+			"Separated"
+		]
+	},
+	{
+		"name": "BarColorExample_01.jpg",
+		"x_labels": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10",
+			"11"
+		]
+	},
+	{
+		"name": "BarFaceandEdgeColorExample_01.jpg",
+		"x_labels": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10",
+			"11"
+		]
+	},
+	{
+		"name": "BarMarkSwift.BarMarkBarChart2x.jpg",
+		"x_labels": [
+			"Finance",
+			"Marketing",
+			"Production"
+		]
+	},
+	{
+		"name": "BarMarkSwift.BarMarkStackedBarChart2x.jpg",
+		"x_labels": [
+			"Finance",
+			"Marketing",
+			"Production"
+		]
+	},
+	{
+		"name": "BarWidthExample_01.jpg",
+		"x_labels": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10",
+			"11"
+		]
+	},
+	{
+		"name": "Column-chart-Serious-Crime-in-Cincinnati.jpg",
+		"x_labels": [
+			"2001",
+			"2002",
+			"2003",
+			"2004",
+			"2005",
+			"2006",
+			"2007",
+			"2008"
+		]
+	},
+	{
+		"name": "ControlIndividualBarColorsExample_01.jpg",
+		"x_labels": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10"
+		]
+	},
+	{
+		"name": "Depict-Data-Studio_Bar-Charts_Vertical-or-Horizontal_Vertical-1.jpg",
+		"x_labels": [
+			"Younger than 30",
+			"30 to 39",
+			"40 to 49",
+			"50 to 59",
+			"60 or older"
+		]
+	},
+	{
+		"name": "Depict-Data-Studio_Bar-Charts_Vertical-or-Horizontal_Vertical-2.jpg",
+		"x_labels": [
+			"Less than $30,000",
+			"$30,000 to $39,999",
+			"$40,000 to $49,999",
+			"$50,000 to $59,999",
+			"$60,000 or more"
+		]
+	},
+	{
+		"name": "Histogram-Hypertension.jpg",
+		"x_labels": [
+			"Normal",
+			"Pre-Hypertension",
+			"Stage I Hypertension",
+			"Stage II Hypertension"
+		]
+	},
+	{
+		"name": "Histogram_Rel_Freq-Hypertension.jpg",
+		"x_labels": [
+			"Normal",
+			"Pre-Hypertension",
+			"Stage I Hypertension",
+			"Stage II Hypertension"
+		]
+	},
+	{
+		"name": "Practice-Problems-1.jpg",
+		"x_labels": [
+			"Monday",
+			"Tuesday",
+			"Wednesday",
+			"Thursday",
+			"Friday",
+			"Saturday"
+		]
+	},
+	{
+		"name": "Practice-Problems-2.jpg",
+		"x_labels": [
+			"Apples",
+			"Oranges",
+			"Mangoes"
+		]
+	},
+	{
+		"name": "Practice-Problems-3.jpg",
+		"x_labels": [
+			"Monday",
+			"Tuesday",
+			"Wednesday",
+			"Thursday",
+			"Friday",
+			"Saturday",
+			"Sunday"
+		]
+	},
+	{
+		"name": "RelativeFrequencyBarChart-AntiHTN.jpg",
+		"x_labels": [
+			"No",
+			"Yes"
+		]
+	},
+	{
+		"name": "RelativeFrequencyBarChart-AntiHTN_by_sex.jpg",
+		"x_labels": [
+			"Male",
+			"Female"
+		]
+	},
+	{
+		"name": "RelativeFrequencyBarChart-AntiHTN_by_sex_B.jpg",
+		"x_labels": [
+			"Male",
+			"Female"
+		]
+	},
+	{
+		"name": "RelativeFrequencyBarChart-AntiHTN_by_sex_C.jpg",
+		"x_labels": [
+			"Male",
+			"Female"
+		]
+	},
+	{
+		"name": "SingleDataSeriesExample_01.jpg",
+		"x_labels": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10",
+			"11"
+		]
+	},
+	{
+		"name": "Solved-Examples-2.jpg",
+		"x_labels": [
+			"Maths",
+			"English",
+			"Science",
+			"Computer",
+			"French"
+		]
+	},
+	{
+		"name": "Solved-Examples-3.jpg",
+		"x_labels": [
+			"Yellow",
+			"Green",
+			"Orange",
+			"Blue",
+			"White"
+		]
+	},
+	{
+		"name": "bar-chart-example-1.jpg",
+		"x_labels": [
+			"Guest",
+			"New User",
+			"Existing User"
+		]
+	},
+	{
+		"name": "bar-chart-example-2.jpg",
+		"x_labels": [
+			"Apr 2020",
+			"May 2020",
+			"jun 2020",
+			"Jul 2020",
+			"Aug 2020",
+			"Sep 2020"
+		]
+	},
+	{
+		"name": "bar-chart-example-3.jpg",
+		"x_labels": [
+			"Check",
+			"Credit Card",
+			"Debit Card",
+			"Digital Wallet",
+			"Cash"
+		]
+	},
+	{
+		"name": "bar-diagram-for-problem-solving-financing.jpg",
+		"x_labels": [
+			"2001",
+			"2002",
+			"2003",
+			"2004",
+			"2005",
+			"2006",
+			"2007",
+			"2008",
+			"2009",
+			"2010"
+		]
+	},
+	{
+		"name": "bar-diagram-for-problem-solving-space-science.jpg",
+		"x_labels": [
+			"Oxygen",
+			"Silicon",
+			"Iron",
+			"Calcium",
+			"Aluminum",
+			"Magnesium",
+			"Other"
+		]
+	},
+	{
+		"name": "bar-graph-1.jpg",
+		"x_labels": [
+			"2012",
+			"2013",
+			"2014",
+			"2015",
+			"2016",
+			"2017",
+			"2018",
+			"2019"
+		]
+	},
+	{
+		"name": "bar-graph-5.jpg",
+		"x_labels": [
+			"40",
+			"50",
+			"60",
+			"70",
+			"80",
+			"90",
+			"100"
+		]
+	},
+	{
+		"name": "bar-graph.jpg",
+		"x_labels": [
+			"Spanish",
+			"Chinese",
+			"Hindi",
+			"French",
+			"English"
+		]
+	},
+	{
+		"name": "bar1 (1).jpg",
+		"x_labels": [
+			"C",
+			"C++",
+			"Java",
+			"Python"
+		]
+	},
+	{
+		"name": "bar1.jpg",
+		"x_labels": [
+			"May",
+			"June",
+			"July",
+			"August",
+			"September"
+		]
+	},
+	{
+		"name": "barGraphVertical-0000.jpg",
+		"x_labels": [
+			"hip hop",
+			"classical",
+			"rock",
+			"jazz"
+		]
+	},
+	{
+		"name": "barGraphVerticalBigScale-0000.jpg",
+		"x_labels": [
+			"hip hop",
+			"classical",
+			"rock",
+			"jazz"
+		]
+	},
+	{
+		"name": "bar_chart.jpg",
+		"x_labels": [
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"10"
+		]
+	},
+	{
+		"name": "bar_chart_1.jpg",
+		"x_labels": [
+			"Vanilla",
+			"Strawberry",
+			"Chocolate",
+			"Mint",
+			"Toffee"
+		]
+	},
+	{
+		"name": "bar_chart_3col_def.jpg",
+		"x_labels": [
+			"Other`",
+			"Peel",
+			"Scratch",
+			"Smudge"
+		]
+	},
+	{
+		"name": "bar_chart_q2.jpg",
+		"x_labels": [
+			"1",
+			"2",
+			"3"
+		]
+	},
+	{
+		"name": "bar_chart_q3.jpg",
+		"x_labels": [
+			"0",
+			"1",
+			"2"
+		]
+	},
+	{
+		"name": "bar_graph_transportation1084496937959524001.jpg",
+		"x_labels": [
+			"walk",
+			"ride in car",
+			"ride on bus"
+		]
+	},
+	{
+		"name": "bargraphq1sol.jpg",
+		"x_labels": [
+			"Firth",
+			"Second",
+			"Third",
+			"Fourth",
+			"Fifth"
+		]
+	},
+	{
+		"name": "bargraphq2sol.jpg",
+		"x_labels": [
+			"6th",
+			"7th",
+			"8th",
+			"3th",
+			"10th",
+			"11th"
+		]
+	},
+	{
+		"name": "bargraphq5.jpg",
+		"x_labels": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8"
+		]
+	},
+	{
+		"name": "bargraphq6.jpg",
+		"x_labels": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		]
+	},
+	{
+		"name": "cf0409187c2fa4efdea953359569a4ed.jpg",
+		"x_labels": [
+			"Monday",
+			"Tuesday",
+			"Wednesday",
+			"Thursday",
+			"Friday"
+		]
+	},
+	{
+		"name": "create_bar_chart.jpg",
+		"x_labels": [
+			"5",
+			"6",
+			"7"
+		]
+	},
+	{
+		"name": "kq03iwpzgdcbeik4feeth4jf2i0hpjm.jpg",
+		"x_labels": [
+			"1900",
+			"1910",
+			"1920",
+			"1930",
+			"1940",
+			"1950",
+			"1960",
+			"1970",
+			"1981",
+			"1991",
+			"2001",
+			"2009"
+		]
+	},
+	{
+		"name": "p08krhw7.jpg",
+		"x_labels": [
+			"Strawberry",
+			"Toffee",
+			"Chocolate",
+			"Vanilla",
+			"Mint"
+		]
+	},
+	{
+		"name": "p08krj8k.jpg",
+		"x_labels": [
+			"Cat",
+			"Dog",
+			"Rabbit",
+			"Hamster",
+			"Fish"
+		]
+	},
+	{
+		"name": "read_bar_chart.jpg",
+		"x_labels": [
+			"5",
+			"6",
+			"7"
+		]
+	},
+	{
+		"name": "representation-bar-graph.jpg",
+		"x_labels": [
+			"Jan",
+			"Feb",
+			"March",
+			"April",
+			"May",
+			"June",
+			"July",
+			"August"
+		]
+	},
+	{
+		"name": "rule-24-all-new-bg-23.jpg",
+		"x_labels": [
+			"Oliver",
+			"George",
+			"Noah",
+			"Arthur",
+			"Harry",
+			"Leo",
+			"Muha- mmad",
+			"Jack",
+			"Charlie",
+			"Oscar"
+		]
+	}
+]
