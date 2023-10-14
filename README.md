@@ -20,9 +20,11 @@ This is tested on a Windows machine. While training should work on other machine
 
 3. Run this command to install dependencies.
 
-  ```console
-  poetry update
-  ```
+    ```console
+    poetry update
+    ```
+
+4. Install [Tesseract OCR](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 
 ### Training
 
