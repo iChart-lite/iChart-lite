@@ -5,7 +5,6 @@ import time
 from playsound import playsound
 
 import cv2
-import pytesseract
 from gtts import gTTS
 from PIL import Image, ImageTk
 from ultralytics import YOLO

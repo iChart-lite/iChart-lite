@@ -12,8 +12,10 @@ numpy = "1.25.2"
 ultralytics = "8.0.196"
 opencv-python = "4.8.1.78"
 gTTS = "2.4.0"
-pytesseract = "0.3.10"
 playsound = "1.2.2"
+tesserocr = {path = "tesserocr-2.6.0-cp311-cp311-win_amd64.whl"}
+pillow = "10.1.0"
+
 
 [build-system]
 requires = ["poetry-core"]

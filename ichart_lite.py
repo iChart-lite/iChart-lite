@@ -3,10 +3,14 @@ from typing import TypedDict
 
 import cv2
 import numpy as np
-import pytesseract
+import tesserocr
+from PIL import Image
 
 PYTESSERACT_CONFIG = "--psm 6"
 Y_LABEL_REGEX = re.compile(r"(\D*)(\d+(?:\.\d+)?)(\D*)")
+
+tessdata_path = "C:\\Program Files\\Tesseract-OCR\\tessdata"
+tesserocr_api = tesserocr.PyTessBaseAPI(path=tessdata_path, psm=6)
 
 class Detection:
   xyxy: tuple[int, int, int, int] # top-left x, y and bottom-right x, y
@@ -51,8 +55,13 @@ class LabelDetection(Detection):
 
     detection_image = orig_image[self.xyxy[1]:self.xyxy[3], self.xyxy[0]:self.xyxy[2]]
     detection_image = cv2.cvtColor(detection_image, cv2.COLOR_BGR2GRAY)
-    label = pytesseract.image_to_string(detection_image, config=PYTESSERACT_CONFIG).strip()
+
+    detection_image = Image.fromarray(detection_image)
+    tesserocr_api.SetImage(detection_image)
+    label = tesserocr_api.GetUTF8Text()
+
     self.label = label    \
+      .strip()            \
       .replace("\n", " ") \
       .replace(",", "")   \
       .replace(".", "")   \
